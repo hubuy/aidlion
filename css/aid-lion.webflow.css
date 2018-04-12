@@ -87,8 +87,10 @@ p {
 }
 
 .button:hover {
+  border-style: none;
   border-color: #f5a623;
-  background-color: #f5a623;
+  background-image: -webkit-linear-gradient(342deg, #f09819, #ff5858);
+  background-image: linear-gradient(108deg, #f09819, #ff5858);
   color: #fff;
 }
 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-arrow-back-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Widget-New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Widget-Fase_3-Guest" transform="translate(-16.000000, -16.000000)">
+            <g id="ic-arrow-back-24px" transform="translate(16.000000, 16.000000)">
+                <path d="M16,0 L16,0 C24.836556,-1.623249e-15 32,7.163444 32,16 L32,16 C32,24.836556 24.836556,32 16,32 L16,32 C7.163444,32 1.082166e-15,24.836556 0,16 L0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="Shape-[8]" fill="#FFFFFF"/>
+                <polygon id="Shape" fill="#1ABC9C" fill-rule="nonzero" points="24 15 11.83 15 17.42 9.41 16 8 8 16 16 24 17.41 22.59 11.83 17 24 17"/>
+            </g>
+        </g>
+    </g>
+</svg>

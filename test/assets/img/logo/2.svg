@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>aid</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Widget-New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aid" fill-rule="nonzero">
+            <circle id="Oval" fill="#1ABC9C" cx="16" cy="16" r="16"/>
+            <polygon id="Λ" fill="#FFFFFF" points="25 25 16.6529968 7 15.3753943 7 7 25 11.1167192 25 16.0283912 14.2589286 20.8832808 25"/>
+        </g>
+    </g>
+</svg>
